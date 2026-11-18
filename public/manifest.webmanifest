@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "FoodRescue Link",
+  "short_name": "FoodRescue",
+  "description": "Schools, food banks and neighbors sharing food locally.",
+  "start_url": "/browse#food",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#214d3c",
+  "icons": [
+    {
+      "src": "/media/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/media/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Find food",
+      "url": "/browse#food"
+    },
+    {
+      "name": "Nearby help",
+      "url": "/browse#help"
+    },
+    {
+      "name": "My organization",
+      "url": "/community#organization"
+    }
+  ]
+}

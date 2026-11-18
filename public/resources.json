@@ -1,0 +1,558 @@
+{
+  "checkedAt": "2026-10-08",
+  "timezone": "America/New_York",
+  "notice": {
+    "en": "Public resource directory. These organizations are not listed as FoodRescue Link partners. Contact the provider to confirm current hours and requirements.",
+    "zh": "公共援助资源目录。这些机构并非已确认的 FoodRescue Link 合作伙伴。请向服务机构确认当前开放时间和领取要求。",
+    "es": "Directorio de recursos públicos. Estas organizaciones no figuran como socios de FoodRescue Link. Confirma los horarios y requisitos actuales con cada organización."
+  },
+  "resources": [
+    {
+      "id": "peddie-school",
+      "name": "Peddie School",
+      "town": "Hightstown",
+      "kind": "school",
+      "type": {
+        "en": "School",
+        "zh": "学校",
+        "es": "Escuela"
+      },
+      "address": "201 South Main Street, Hightstown, NJ 08520-3349",
+      "phone": "+16099447500",
+      "access": {
+        "en": "Public directory entry for the school only. Peddie School has not onboarded with FoodRescue Link; participation in food donations has not been confirmed. This campus is not listed as a public food pickup site. Contact the school for institutional inquiries.",
+        "zh": "此条目仅收录学校公开信息。Peddie School 尚未入驻 FoodRescue Link，参与食物捐赠尚未确认。该校园不是本平台公布的公共食物领取点。机构相关事宜请联系学校。",
+        "es": "Ficha informativa de la escuela. Peddie School aún no se ha incorporado a FoodRescue Link; no se ha confirmado su participación en donaciones de alimentos. Este campus no figura como punto público de recogida de alimentos. Contacta con la escuela para consultas institucionales."
+      },
+      "sources": [
+        "https://peddie.org/about/mission-and-values/our-history/"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "rise-pantry",
+      "name": "Rise Pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "address": "133 Broad Street, Hightstown, NJ 08520",
+      "phone": "+16094434464",
+      "hours": {
+        "en": "Monday, Wednesday and Friday: 9 am–noon. Also 5–7 pm on the first, second and third Wednesday of each month.",
+        "zh": "周一、周三、周五上午9点至中午12点；每月第一个、第二个和第三个周三另开放下午5点至7点。",
+        "es": "Lunes, miércoles y viernes: de 9 a. m. a mediodía. También de 5 a 7 p. m. el primer, segundo y tercer miércoles de cada mes."
+      },
+      "access": {
+        "en": "Call before your first visit to ask about registration, eligibility and documents. Walk-in access has not been confirmed.",
+        "zh": "首次前往前请致电，询问登记、资格和所需材料。尚未确认是否接受直接到访领取。",
+        "es": "Antes de tu primera visita, llama para preguntar sobre el registro, los requisitos y los documentos. No se ha confirmado la atención sin cita."
+      },
+      "sources": [
+        "https://njrise.org/contact/",
+        "https://njrise.org/make-an-appointment/"
+      ],
+      "bookingInApp": false,
+      "town": "Hightstown",
+      "kind": "pantry",
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "skeets-pantry",
+      "name": "Skeet’s Pantry",
+      "town": "Cranbury",
+      "address": "22 South Main Street, Cranbury, NJ 08512",
+      "phone": "+16093950897",
+      "hours": {
+        "en": "Third Sunday, 1:30–3:30 pm; November and December may be earlier.",
+        "zh": "每月第三个周日13:30–15:30；11月、12月可能提前。",
+        "es": "Tercer domingo, 13:30–15:30; noviembre y diciembre pueden adelantarse."
+      },
+      "access": {
+        "en": "No preregistration. Serves Cranbury and surrounding communities; provide name and phone. Call about emergency food between distributions.",
+        "zh": "无需提前登记；服务Cranbury及周边社区，现场提供姓名与电话。两次发放之间急需食物可致电。",
+        "es": "Sin inscripción previa. Atiende Cranbury y comunidades cercanas; facilita nombre y teléfono. Llama por alimentos de emergencia entre repartos."
+      },
+      "sources": [
+        "https://cranburypres.org/community-missions/skeets-pantry/"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "plainsboro-pantry",
+      "name": "Plainsboro Food Pantry",
+      "town": "Plainsboro",
+      "address": "641 Plainsboro Road, Plaza Level, Plainsboro, NJ 08536",
+      "phone": "+16097990909",
+      "hours": {
+        "en": "Tuesday, Wednesday, Friday 9 am–noon; Thursday 11 am–2:30 pm. Holidays may vary.",
+        "zh": "周二、三、五9:00–12:00；周四11:00–14:30。节假日可能调整。",
+        "es": "Martes, miércoles y viernes 9:00–12:00; jueves 11:00–14:30. Festivos sujetos a cambios."
+      },
+      "access": {
+        "en": "Income-eligible Plainsboro residents must apply and submit a shopping list. Up to two visits monthly. Phone extension 1711.",
+        "zh": "面向符合收入资格的Plainsboro居民；需申请并提交购物清单，每月最多两次。电话分机1711。",
+        "es": "Residentes de Plainsboro que cumplan requisitos de ingresos: solicitud y lista de compras obligatorias. Hasta dos visitas al mes. Extensión 1711."
+      },
+      "sources": [
+        "https://plainsboronj.com/242/Food-Pantry",
+        "https://www.plainsboronj.com/m/faq?cat=27"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "robbinsville-pantry",
+      "name": "Robbinsville Food Pantry",
+      "town": "Robbinsville",
+      "address": "1117 Route 130 at Folsom Way, Robbinsville, NJ 08691",
+      "phone": "+16092591567",
+      "hours": {
+        "en": "Tuesday 9–11 am; Thursday 9–11 am and 2–3 pm.",
+        "zh": "周二9:00–11:00；周四9:00–11:00及14:00–15:00。",
+        "es": "Martes 9:00–11:00; jueves 9:00–11:00 y 14:00–15:00."
+      },
+      "access": {
+        "en": "Robbinsville Township residents only. Family sign-in required; weekly food bags subject to availability.",
+        "zh": "仅限Robbinsville Township居民。家庭需签到，每周食物袋视供应情况提供。",
+        "es": "Solo residentes de Robbinsville Township. La familia debe registrarse; bolsas semanales según disponibilidad."
+      },
+      "sources": [
+        "https://www.robbinsville.net/services/robbinsville_food_pantry/index.php"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "jamesburg-deacons",
+      "name": "Deacon’s Food Pantry",
+      "town": "Jamesburg",
+      "address": "175 Gatzmer Avenue, Jamesburg, NJ 08831",
+      "phone": "+17325211711",
+      "hours": {
+        "en": "Call to confirm collection hours.",
+        "zh": "领取时间请致电确认。",
+        "es": "Llama para confirmar el horario de recogida."
+      },
+      "access": {
+        "en": "Call for a registration appointment. Pantry is in the small steel building behind the Presbyterian church. Confirm current service-area requirements.",
+        "zh": "请先电话预约登记。食品站在长老会教堂后方小型钢结构建筑内；服务地区要求请致电确认。",
+        "es": "Llama para una cita de inscripción. Está en el pequeño edificio de acero detrás de la iglesia presbiteriana. Confirma el área de servicio."
+      },
+      "sources": [
+        "https://www.presbyterianchurchjamesburg.org/food-pantry"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "jfs-monroe",
+      "name": "JFS Middlesex — Monroe Pantry",
+      "town": "Monroe",
+      "address": "1600 Perrineville Road, Suite 26, Monroe Township, NJ 08831",
+      "phone": "+17327771940",
+      "hours": {
+        "en": "By appointment only; call for collection times.",
+        "zh": "仅预约领取，具体时间请致电。",
+        "es": "Solo con cita; llama para acordar la recogida."
+      },
+      "access": {
+        "en": "For Middlesex County residents of all backgrounds; twice monthly or as needed. Monroe office: 609-395-7979. Provider lists Suite 26; confirm before travel.",
+        "zh": "服务所有背景的Middlesex County居民；每月两次或按需要。Monroe办公室609-395-7979。机构现列Suite 26，出发前请确认。",
+        "es": "Para residentes de Middlesex County de cualquier origen; dos veces al mes o según necesidad. Oficina Monroe: 609-395-7979. Confirma Suite 26 antes de viajar."
+      },
+      "sources": [
+        "https://jfsmiddlesex.org/food-pantry/",
+        "https://jfsmiddlesex.org/contact-us/"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "monroe-township-pantry",
+      "name": "Monroe Township Food Pantry",
+      "town": "Monroe",
+      "address": "12 Halsey Reed Road, Monroe Township, NJ 08831",
+      "phone": "+16094487140",
+      "hours": {
+        "en": "First Wednesday of the month, 9–11 am, for approved applicants.",
+        "zh": "每月第一个周三9:00–11:00，仅限申请获批者。",
+        "es": "Primer miércoles del mes, 9:00–11:00, para solicitantes aprobados."
+      },
+      "access": {
+        "en": "Proof of Monroe residency and financial eligibility required. Call ahead for emergency bags, weekdays 8:30 am–4:30 pm. Operated through Senior Services; ask about eligibility.",
+        "zh": "需证明Monroe居住资格及经济资格。工作日8:30–16:30可先致电询问紧急食物袋；由Senior Services运营，具体资格请确认。",
+        "es": "Se exige acreditar residencia en Monroe y elegibilidad económica. Llama antes por bolsas de emergencia, lunes a viernes 8:30–16:30. Gestionado por Senior Services; consulta requisitos."
+      },
+      "sources": [
+        "https://www.middlesexcountynj.gov/home/showpublisheddocument/9653/639052786711370000"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "jfcs-greater-mercer",
+      "name": "JFCS Greater Mercer Food Pantry",
+      "town": "Princeton / West Windsor",
+      "address": "707 Alexander Road, Suite 204, Princeton, NJ 08540",
+      "phone": "+16099878100",
+      "hours": {
+        "en": "By appointment only; open two days weekly. Confirm available appointments.",
+        "zh": "仅预约领取，每周开放两天；具体日期以预约为准。",
+        "es": "Solo con cita; abre dos días por semana. Consulta las citas disponibles."
+      },
+      "access": {
+        "en": "All backgrounds welcome; basic contact and household details requested. Visit every other week. Phone ext. 237; Spanish ext. 205. This listing is for the fixed pantry, not restricted mobile stops.",
+        "zh": "欢迎所有背景居民，需基本联系方式与家庭组成信息；每两周可领取一次。电话分机237，西语205。此处为固定食品站，不是限制对象的流动站。",
+        "es": "Abierto a personas de cualquier origen; se solicitan datos básicos de contacto y hogar. Visitas cada dos semanas. Ext. 237; español 205. Esta ficha es del local fijo, no de paradas móviles restringidas."
+      },
+      "sources": [
+        "https://www.jfcsonline.org/foodprograms/",
+        "https://www.jfcsonline.org/contact-us/",
+        "https://www.jfcsonline.org/food/"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "arm-in-arm-princeton",
+      "name": "Arm In Arm — Princeton Pantry",
+      "town": "Princeton",
+      "address": "61 Nassau Street, Princeton, NJ 08542",
+      "phone": "+16093969355",
+      "hours": {
+        "en": "Monday and Wednesday 11 am–4 pm; Tuesday 1–7 pm.",
+        "zh": "周一、三11:00–16:00；周二13:00–19:00。",
+        "es": "Lunes y miércoles 11:00–16:00; martes 13:00–19:00."
+      },
+      "access": {
+        "en": "For Mercer County residents facing food insecurity. Located on the lower level of Nassau Presbyterian Church. Call to confirm first-visit documents and appointment requirements.",
+        "zh": "面向有食物困难的Mercer County居民，位于Nassau Presbyterian Church下层。首次前往的材料及预约要求请致电确认。",
+        "es": "Para residentes de Mercer County con dificultades alimentarias. En la planta inferior de Nassau Presbyterian Church. Confirma documentos y requisitos de cita antes de la primera visita."
+      },
+      "sources": [
+        "https://arminarm.org/preventing-hunger/",
+        "https://arminarm.org/volunteer-opportunities/"
+      ],
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "princeton-alliance-pantry",
+      "name": "The Pantry — Princeton Alliance Church",
+      "town": "Plainsboro",
+      "address": "20 Schalks Crossing Road, Plainsboro, NJ 08536",
+      "phone": "+16097999000",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "New applications currently paused.",
+        "zh": "目前暂停接受新申请。",
+        "es": "Nuevas solicitudes suspendidas actualmente."
+      },
+      "access": {
+        "en": "Serves selected nearby towns including Hightstown and East Windsor. Check the official website for reopening of applications; do not arrive expecting walk-in food pickup. Phone extension 11.",
+        "zh": "服务包括 Hightstown、East Windsor 在内的指定周边城镇。请查看官网何时恢复申请，不要直接前往等待领取。电话分机11。",
+        "es": "Atiende localidades cercanas, incluidas Hightstown y East Windsor. Consulta la web para saber cuándo se reabren las solicitudes; no acudas esperando recogida sin cita. Extensión 11."
+      },
+      "sources": [
+        "https://www.princetonalliance.org/the-pantry/",
+        "https://www.middlesexcountynj.gov/home/showpublisheddocument/8907/638895522102970000"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "south-brunswick-pantry",
+      "name": "South Brunswick Food Pantry",
+      "town": "South Brunswick",
+      "address": "540 Ridge Road, Monmouth Junction, NJ 08852",
+      "phone": "+17323294000",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "Call to confirm current pickup times.",
+        "zh": "当前领取时间请致电确认。",
+        "es": "Llama para confirmar el horario de recogida."
+      },
+      "access": {
+        "en": "South Brunswick residents only. Register first by calling extension 7674 or emailing sbfoodpantry@sbtnj.net. Confirm pickup arrangements during registration.",
+        "zh": "仅限 South Brunswick 居民。请先致电分机7674或发邮件至 sbfoodpantry@sbtnj.net 登记，并确认领取安排。",
+        "es": "Solo residentes de South Brunswick. Inscríbete llamando a la extensión 7674 o escribiendo a sbfoodpantry@sbtnj.net; confirma cómo recoger los alimentos."
+      },
+      "sources": [
+        "https://southbrunswicknj.gov/social-services/food-pantry/"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "bromley-pantry",
+      "name": "Bromley Neighborhood Civic Center Food Pantry",
+      "town": "Hamilton",
+      "address": "1801 East State Street, Hamilton, NJ 08609",
+      "phone": "+16095878100",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "Tuesday and Thursday: 9:30–11:30 am and 2:30–3:30 pm. Call about additional dates.",
+        "zh": "周二、周四9:30–11:30及14:30–15:30；额外开放日期请致电。",
+        "es": "Martes y jueves: 9:30–11:30 y 14:30–15:30. Consulta fechas adicionales."
+      },
+      "access": {
+        "en": "Registration required for eligible Hamilton Township residents. Ask about income and residency documents before visiting.",
+        "zh": "面向符合资格的 Hamilton Township 居民，需登记。前往前询问收入及居住证明要求。",
+        "es": "Se requiere inscripción para residentes elegibles de Hamilton Township. Consulta la documentación de ingresos y residencia."
+      },
+      "sources": [
+        "https://www.hamiltonnj.com/m/faq?cat=32",
+        "https://www.cyobromley.org/2025docs/AnualReport.pdf"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "john-wilson-pantry",
+      "name": "John O. Wilson Neighborhood Center Food Pantry",
+      "town": "Hamilton",
+      "address": "169 Wilfred Avenue, Hamilton, NJ 08610",
+      "phone": "+16093936480",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "Call to confirm current pickup times.",
+        "zh": "当前领取时间请致电确认。",
+        "es": "Llama para confirmar el horario de recogida."
+      },
+      "access": {
+        "en": "The township lists a food pantry at this center. Call to confirm eligibility, registration and required documents before visiting.",
+        "zh": "市政府列明该中心提供食物援助。前往前请电话确认资格、登记及所需材料。",
+        "es": "El municipio incluye una despensa en este centro. Confirma requisitos, inscripción y documentación antes de acudir."
+      },
+      "sources": [
+        "https://www.hamiltonnj.com/m/faq?cat=32"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "st-raphael-pantry",
+      "name": "St. Raphael–Holy Angels Food Pantry",
+      "town": "Hamilton",
+      "address": "151 Gropp Avenue, Hamilton, NJ 08610",
+      "phone": "+16095853848",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "Selected Saturdays; confirm the current distribution calendar.",
+        "zh": "指定周六发放，具体日期请确认当前日历。",
+        "es": "Sábados seleccionados; confirma el calendario actual."
+      },
+      "access": {
+        "en": "Serves people regardless of religious affiliation. Income eligibility applies according to township information; call to confirm intake requirements.",
+        "zh": "不限制宗教背景。市政府资料列有收入资格要求，请先致电确认领取条件。",
+        "es": "Atiende sin distinción religiosa. La información municipal indica requisitos de ingresos; confirma las condiciones por teléfono."
+      },
+      "sources": [
+        "https://straphael-holyangels.com/food-pantry/",
+        "https://www.hamiltonnj.com/DocumentCenter/View/7273/Inventory-of-Community-Services-"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "arm-in-arm-trenton",
+      "name": "Arm In Arm — Trenton Pantry",
+      "town": "Trenton",
+      "address": "48 Hudson Street, Trenton, NJ",
+      "phone": "+16093969355",
+      "kind": "pantry",
+      "type": {
+        "en": "Food pantry",
+        "zh": "食物援助站",
+        "es": "Despensa de alimentos"
+      },
+      "hours": {
+        "en": "Monday and Wednesday: 9:30 am–noon.",
+        "zh": "周一、周三9:30至中午12点。",
+        "es": "Lunes y miércoles: 9:30–12:00."
+      },
+      "access": {
+        "en": "Food assistance for Mercer County neighbors. Call to confirm first-visit requirements. This is the Hudson Street pantry, not the closed 123 East Hanover Street site.",
+        "zh": "为 Mercer County 居民提供食物援助。首次领取要求请致电确认。此为 Hudson Street 站点，并非已关闭的123 East Hanover Street站点。",
+        "es": "Ayuda alimentaria para vecinos de Mercer County. Confirma requisitos de primera visita. Esta es la despensa de Hudson Street, no el local cerrado de 123 East Hanover Street."
+      },
+      "sources": [
+        "https://arminarm.org/preventing-hunger/"
+      ],
+      "bookingInApp": false,
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "rise-community-dinners",
+      "name": "Rise Community Dinners",
+      "type": {
+        "en": "Free hot meals",
+        "zh": "免费热餐",
+        "es": "Comidas calientes gratis"
+      },
+      "phone": "+16094434464",
+      "access": {
+        "en": "Rise lists these meals as free, with no questions asked. Confirm the current schedule with Rise before traveling.",
+        "zh": "Rise 官方说明这些热餐免费提供，无需说明情况。出发前请向 Rise 确认当前安排。",
+        "es": "Rise indica que estas comidas son gratis y no se hacen preguntas. Confirma el horario actual con Rise antes de viajar."
+      },
+      "locations": [
+        {
+          "name": "1st Presbyterian Church of Hightstown",
+          "address": "320 North Main Street, Hightstown, NJ",
+          "hours": {
+            "en": "Monday, 4:30–6 pm",
+            "zh": "周一下午4:30至6点",
+            "es": "Lunes, de 4:30 a 6 p. m."
+          }
+        },
+        {
+          "name": "St. James A.M.E. Church",
+          "address": "413 Summit Street, Hightstown, NJ",
+          "hours": {
+            "en": "Wednesday, 3:30–5 pm",
+            "zh": "周三下午3:30至5点",
+            "es": "Miércoles, de 3:30 a 5 p. m."
+          }
+        },
+        {
+          "name": "First United Methodist Church of Hightstown",
+          "address": "187 Stockton Street, Hightstown, NJ",
+          "hours": {
+            "en": "Thursday, 3:30–5 pm",
+            "zh": "周四下午3:30至5点",
+            "es": "Jueves, de 3:30 a 5 p. m."
+          }
+        }
+      ],
+      "sources": [
+        "https://njrise.org/pantry/"
+      ],
+      "bookingInApp": false,
+      "kind": "meal",
+      "partnershipConfirmed": false,
+      "claimed": false,
+      "checkedAt": "2026-10-08"
+    }
+  ],
+  "researchCaveats": [
+    "The uRise subdomain includes an older contradictory pantry schedule; use the main Rise contact page schedule and advise confirming directly.",
+    "Rise appointment page has a general document checklist covering several services. Do not present every listed document as a mandatory pantry-specific requirement.",
+    "Older 2024-2025 intake forms conflict with current days and are not a reliable basis for current eligibility or visit frequency.",
+    "No provider has been contacted and no partnership, live food inventory, appointment or app reservation is implied."
+  ],
+  "coverage": {
+    "en": "Around Peddie School in Hightstown and nearby towns. This is a researched selection, not a complete census; service areas vary.",
+    "zh": "以Hightstown的Peddie School及周边城镇为范围。此为已查证的资源选集，并非完整普查；各机构服务范围不同。",
+    "es": "En torno a Peddie School, Hightstown y localidades cercanas. Selección investigada, no censo completo; las áreas de servicio varían."
+  }
+}
