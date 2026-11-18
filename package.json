@@ -1,0 +1,23 @@
+{
+  "name": "foodrescue-email",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/auth.test.mjs && node tests/community.test.mjs && node tests/notifications.test.mjs && node --test tests/account-deletion.test.mjs",
+    "dev": "npm run build && wrangler dev --local --port 8787",
+    "db:local": "wrangler d1 migrations apply DB --local",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.3"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.0",
+    "wrangler": "4.92.0"
+  }
+}
